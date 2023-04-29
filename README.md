@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad Tambavekar.
-- 👀 I’m interested in lesrning WEB Developing and creating unique websites.
+- 👀 I’m interested in learning WEB Developing and creating unique websites.
 - 🌱 I’m currently learning HTML, JS, PYTHON and many more.
 
 <!---
